@@ -5,7 +5,7 @@ table,td,th{border:1px solid #bbb;padding:4px}
 .external{background-position:0 60%;background-repeat:no-repeat;padding-left:12px;background-image:url(../images/external.png)}
 a.new{color:#0c00ae}
 pre{margin:1em 1em 1em 1.6em;padding:2px 2px 2px 0;background-color:#fafafa;border:1px solid #dadada;width:auto;overflow-x:auto;overflow-y:hidden}
-ul.toc{background-color:#ffd;border:1px solid #e4e4e4;padding:4px;line-height:1.2em;margin-bottom:12px;margin-right:12px;margin-left:0;display:table}
+ul.toc{z-index:-1;background-color:#ffd;border:1px solid #e4e4e4;padding:4px;line-height:1.2em;margin-bottom:12px;margin-right:12px;margin-left:0;display:table}
 * html ul.toc{width:50%}
 ul.toc.right{float:right;margin-left:12px;margin-right:0;width:auto}
 ul.toc.left{float:left;margin-right:12px;margin-left:0;width:auto}
