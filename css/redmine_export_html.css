@@ -22,6 +22,8 @@ img{vertical-align:middle}
 .main{padding: 0 10px}
 .content{width:900px;}
 ul.toc{width: 300px;right:0;top:10px;position: fixed;opacity: 1}
+/* footer pageTop */
+.footer_pageTop {position: fixed;z-index: 999;width: 45px;height: 45px;}
 /* syntax hl*/
 code,kbd,samp {font-family: monospace, monospace;font-size: 1em}
 .syntaxhl div{display:inline}
