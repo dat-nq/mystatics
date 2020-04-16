@@ -23,7 +23,6 @@ li hr{margin-top:10px;margin-bottom:10px}
 blockquote{margin:0 0 20px;padding:5px 16px;border-left:4px solid rgba(0,0,0,0.15)}
 blockquote>:first-child{margin-top:0}
 blockquote>:last-child{margin-bottom:0}
-h1,h2,h3,h4{font-family:"Trebuchet MS",Georgia,"Times New Roman",serif}
 table{border:1px solid #505050;border-collapse:collapse;margin-bottom:1em}
 table,td,th{border:1px solid #bbb;padding:4px}
 .external{background-position:0 60%;background-repeat:no-repeat;padding-left:12px}
